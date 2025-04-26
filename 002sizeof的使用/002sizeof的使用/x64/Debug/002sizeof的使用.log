@@ -1,0 +1,13 @@
+﻿  FileName.c
+C:\c语言\002sizeof的使用\FileName.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\c语言\002sizeof的使用\FileName.c(13,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\c语言\002sizeof的使用\FileName.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\c语言\002sizeof的使用\FileName.c(14,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\c语言\002sizeof的使用\FileName.c(10,12): warning C4101: “e”: 未引用的局部变量
+C:\c语言\002sizeof的使用\FileName.c(7,6): warning C4101: “b”: 未引用的局部变量
+C:\c语言\002sizeof的使用\FileName.c(9,7): warning C4101: “d”: 未引用的局部变量
+  002sizeof的使用.vcxproj -> C:\c语言\002sizeof的使用\x64\Debug\002sizeof的使用.exe
