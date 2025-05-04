@@ -1,0 +1,2 @@
+﻿递归与迭代.obj : error LNK2005: main 已经在 用迭代求斐波那契数.obj 中定义
+D:\C语言（vs）\018函数递归\x64\Debug\018函数递归.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
