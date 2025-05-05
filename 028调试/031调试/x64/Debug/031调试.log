@@ -1,0 +1,4 @@
+﻿  平替strlen.c
+D:\C语言（vs）\031调试\平替strlen.c(14,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\C语言（vs）\031调试\平替strlen.c(9,8): warning C4090: “初始化”: 不同的“const”限定符
+  031调试.vcxproj -> D:\C语言（vs）\031调试\x64\Debug\031调试.exe
